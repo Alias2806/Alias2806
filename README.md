@@ -32,9 +32,9 @@ Currently based on **Earth**, I enjoy working on various programming projects an
 [![Alias2806](https://github-readme-stats.vercel.app/api/pin/?username=Alias2806&repo=Alias2806&theme=dark)](https://github.com/Alias2806/Alias2806)
 
 ## GitHub Stats
-📊 **Public Repositories**: 6
-👥 **Followers**: 50
-🔗 **Following**: 59
+📊 **Public Repositories**: 6   
+👥 **Followers**: 50   
+🔗 **Following**: 59   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alias2806&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alias2806&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
