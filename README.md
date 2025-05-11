@@ -33,8 +33,8 @@ Currently based on **Earth**, I enjoy working on various programming projects an
 
 ## GitHub Stats
 📊 **Public Repositories**: 6   
-👥 **Followers**: 50   
-🔗 **Following**: 59   
+👥 **Followers**: 54   
+🔗 **Following**: 61   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alias2806&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alias2806&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
