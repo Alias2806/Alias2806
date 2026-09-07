@@ -20,21 +20,17 @@ I'm **Alias2806**, a passionate developer who loves coding and exploring new tec
 
 ## About Me
 
-Currently based on **Earth**, I enjoy working on various programming projects and contributing to open-source. I'm always eager to learn and grow my skill set!
+Currently based on **Earth**, I enjoy working on various programming projects and contributing to open source. I'm always eager to learn and grow my skill set!
 
 ## Skills & Technologies
 <!---
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,js,docker,react&perline=8)](https://skillicons.dev)
 --->
-## Top Projects
-
-[![W3Schools](https://github-readme-stats.vercel.app/api/pin/?username=Alias2806&repo=W3Schools&theme=dark)](https://github.com/Alias2806/W3Schools)
-[![Alias2806](https://github-readme-stats.vercel.app/api/pin/?username=Alias2806&repo=Alias2806&theme=dark)](https://github.com/Alias2806/Alias2806)
 
 ## GitHub Stats
-📊 **Public Repositories**: 6   
-👥 **Followers**: 182   
-🔗 **Following**: 180   
+📊 **Public Repositories**: 1   
+👥 **Followers**: 204   
+🔗 **Following**: 170   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alias2806&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alias2806&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
